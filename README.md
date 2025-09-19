@@ -5,6 +5,7 @@
 # Nomes:
 Eduardo Correia
 Tiago Candeias
+Patrícia Martins
 
 # Running the Project in Development Mode
 
